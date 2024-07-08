@@ -25,8 +25,8 @@ Este bot implementa uma calculadora interativa no Discord usando botões para n�
 
 ## EXECUTANDO O PROJETO:
 1. **Editar o código:**
-   - Certifique-se de substituir `seu_token_aqui` pelas informações corretas das suas credenciais em `CODIGO/src/.env`.
-
+   - Substitua `seu_token_aqui` pelas suas credenciais corretas, que podem ser obtidas no [Discord Developer Portal](https://discord.com/developers/applications), no arquivo `CODIGO/.env`.
+    
 2. **Instalando as Depêndencias:**
    - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado (`CODIGO`). O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
 
